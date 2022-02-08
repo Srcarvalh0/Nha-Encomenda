@@ -1,0 +1,72 @@
+.princ{
+    background-image: url();
+    background-repeat:round;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(167, 9, 9, 0.637);
+    border-end-end-radius: 80px;
+}
+.nav-link {
+    padding: 8px;
+    display: flex;
+}
+.label{
+    color: white;
+}
+
+.nav-item{
+    padding: 33px;
+    text-decoration: none;
+}
+.btn{
+    color: white;
+    border-radius: 10px;
+}
+.pesquisa{
+    color: white;
+}
+
+.master{
+    padding: 50px;
+     display: grid;
+     grid-template-columns: 40% 40%;
+     grid-column-gap: 10em;
+}
+ 
+.encomenda{
+    padding: 50px;
+    background-color: rgba(165, 42, 42, 0.651);
+    justify-content: center ;
+    border-radius: 20px;
+}
+
+.agencias{
+    padding: 50px;
+    background-color: rgba(165, 42, 42, 0.651);
+    justify-content: center ;
+    border-radius: 20px;
+}
+.h2{
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.295);
+    color: white;
+    border-radius: 20px;
+}
+
+
+
+
+@media (min-width: 576px) { }
+
+
+@media (min-width: 768px) { }
+
+@media (min-width: 992px) { }
+
+@media (min-width: 1200px) { }
+
+
+@media (min-width: 1400px) { }

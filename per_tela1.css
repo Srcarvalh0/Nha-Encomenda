@@ -1,0 +1,104 @@
+.princ{
+    background-image: url();
+    background-repeat:round;
+
+}
+
+.propaganda{
+    
+   margin-left: 5%;
+    border-radius: 20px;
+    padding: 50px;
+    background-color:rgba(165, 42, 42, 0)
+}
+
+.tarifasver{
+    border-radius: 2;
+
+}
+
+
+.anuncios{
+    padding: 30px;
+    display: grid;
+    grid-template-columns: 25% 25% 25%;
+    grid-column-gap: 10em;
+    background-color: rgba(162, 154, 154, 0.377);
+    border-radius: 20px;
+    @media (min-width: 768px) { }
+    
+    @media (min-width: 992px) { }
+    
+    @media (min-width: 1200px) { }
+    
+    
+    @media (min-width: 1400px) { }
+}
+
+
+.nav {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(167, 9, 9, 0.76);
+    border-end-end-radius: 80px;
+}
+.nav-link {
+    padding: 44px;
+    display: flex;
+}
+.label{
+    color: white;
+}
+
+.nav-item{
+    padding-top: 33px;
+    
+}
+.btn{
+    background-color: white;
+    border-radius: 10px;
+}
+.pesquisa{
+    color: white;
+}
+
+.box1{
+    border-radius: 20px;
+    background-color: rgb(87, 82, 82);
+    justify-content: center;
+}
+.texto_aleatorio{
+    justify-content: center;
+}
+
+@media (min-width: 576px) { }
+
+
+@media (min-width: 768px) { }
+
+@media (min-width: 992px) { }
+
+@media (min-width: 1200px) { }
+
+
+@media (min-width: 1400px) { }
+     
+.correios{
+    padding: 10px;
+    justify-content: center;
+    background-color: rgba(165, 42, 42, 0.48);
+    border-radius: 20px;
+    @media (min-width: 576px) { }
+
+
+   
+}
+
+.tarifas{
+
+}
+
+.servicoEntrega{
+    border-radius: 20px;
+    background-color: rgba(165, 42, 42, 0.5);
+}

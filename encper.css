@@ -1,0 +1,74 @@
+.princ{
+    background-image: url();
+    background-repeat:round;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(167, 9, 9, 0.637);
+    border-end-end-radius: 80px;
+}
+.nav-link {
+    padding: 8px;
+    display: flex;
+}
+.label{
+    color: white;
+}
+
+.nav-item{
+    padding: 33px;
+    text-decoration: none;
+}
+.btn{
+    color: white;
+    border-radius: 10px;
+}
+.pesquisa{
+    color: white;
+}
+.minhasenc{
+    color: white;
+   padding: 25px;
+}
+.ea{
+    color: white;
+}
+.main3{
+    padding: 50px;
+}
+.layout1{
+    padding: 50px;
+    background-color: rgba(165, 42, 42, 0.781);
+    border-radius: 20px;
+}
+
+.select{
+    border-color: brown;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.coluna{
+    padding: 50px;
+    margin-right: 400px;
+    background-color: rgba(141, 4, 4, 0.541);
+    display: flex;
+    border-radius: 50px;
+}
+
+.info1{
+    color: white;
+    text-decoration: none;
+
+}
+
+
+.infos{
+    color: white;
+    background-color: rgba(119, 3, 3, 0.767);
+    border-color: brown;
+    border-radius: 10px;
+    margin-left: 100px;
+}

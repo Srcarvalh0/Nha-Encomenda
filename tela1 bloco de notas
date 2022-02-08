@@ -1,0 +1,69 @@
+<nav class="cabecalho">
+      <p>
+        <h2 class="nhaenc"> Nha Encomenda <img src="LogoMakr.png" alt="logotipo" width=50 height=0>
+        </h2>
+        <button class="entrar_cadastrar">
+            Entrar / Cadastrar
+        </button>
+      </p>
+    </nav>
+   <div class="main">
+            <div class="box_1">
+                <p><img src="correios.jpg" alt="logotipo" width=400 height=200></p>
+                <p class="texto_aleatorio"> Venha nos conhecer<br>O melhor esta por vir!</p>
+            </div>
+            <div class="box_2">
+                <p></p>
+            </div>
+    </div> 
+    
+    
+    
+    
+    css
+    
+    
+    
+    .nhaenc{
+    color: rgb(255, 255, 255);
+}
+.principal{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+  }
+.cabecalho{
+    background-color: rgba(199, 19, 19, 0.884);
+    padding: 15px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    margin-right: 0px;
+    margin-left: 0px;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.entrar_cadastrar{
+    padding: 2px;
+    background-color: rgba(10, 71, 238, 0.24);
+    color: white;
+    border-radius: 200px;
+    margin-left: 900px;
+    margin-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: rgb(0, 0, 0);
+}
+.main{
+    display: flex;
+}
+.box_1{
+    padding: 50px;
+    background-color: rgba(219, 11, 56, 0.144);
+    border-color: rgba(0, 0, 0, 0.397);
+    border-radius: 20px;
+    margin-left: 20px;
+}
+.texto_aleatorio{
+    padding: auto;
+    margin-left: 20px;
+    color: black;
+}

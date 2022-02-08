@@ -1,0 +1,70 @@
+.princ{
+    background-image: url();
+    background-repeat:round;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(167, 9, 9, 0.637);
+    border-end-end-radius: 80px;
+}
+.nav-link {
+    padding: 8px;
+    display: flex;
+}
+.label{
+    color: white;
+}
+
+.nav-item{
+    padding: 33px;
+    text-decoration: none;
+}
+.btn{
+    color: white;
+    border-radius: 10px;
+}
+.pesquisa{
+    color: white;
+}
+.select{
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+
+
+
+@media (min-width: 576px) { }
+
+
+@media (min-width: 768px) { }
+
+@media (min-width: 992px) { }
+
+@media (min-width: 1200px) { }
+
+
+@media (min-width: 1400px) { }
+
+
+
+
+.logar{
+  padding: 100px;
+}
+.password{
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+
+.the_big_box{
+    border-radius: 12px;
+    margin-top: 50px;
+    margin-left: 150px ;
+    margin-right: 150px;
+    padding: 100px;
+    background-color: rgba(255, 255, 255, 0.521);
+}
